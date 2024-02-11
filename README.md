@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 
 
 [![An image of @aishwary2004gupta's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aishwary2004gupta)](https://holopin.io/@aishwary2004gupta)
+
+
+<a href="https://app.daily.dev/aishwarygupta"><img src="https://api.daily.dev/devcards/5f84422fd13248f28d29d5cd6de1d82f.png?r=jgp" width="400" alt="Aishwary Gupta's Dev Card"/></a>
