@@ -18,4 +18,3 @@ Here are some ideas to get you started:
 [![An image of @aishwary2004gupta's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aishwary2004gupta)](https://holopin.io/@aishwary2004gupta)
 
 Read Tech related blogs here: [https://aishwarygupta.hashnode.dev/](https://aishwarygupta.hashnode.dev/)
-
