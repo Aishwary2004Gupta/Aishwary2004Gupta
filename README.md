@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 
 
 ## My Blog
-Check out my blog for insightful tech content: [Aishwary Gupta's Blog](https://aishwarygupta.hashnode.dev/)
+Check out my blog for insightful tech content: [HERE](https://aishwarygupta.hashnode.dev/)
 
