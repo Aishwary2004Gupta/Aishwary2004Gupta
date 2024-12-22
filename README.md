@@ -20,4 +20,6 @@ Here are some ideas to get you started:
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Aishwary2004Gupta?ext=heatmap)
 
 
-Read Tech related blogs here: [https://aishwarygupta.hashnode.dev/](https://aishwarygupta.hashnode.dev/)
+## My Blog
+Check out my blog for insightful tech content: [Aishwary Gupta's Blog](https://aishwarygupta.hashnode.dev/)
+
