@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 [![An image of @aishwary2004gupta's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aishwary2004gupta)](https://holopin.io/@aishwary2004gupta)
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/Aishwary2004Gupta?ext=heatmap)
+![Leetcode Stats](https://leetcard.jacoblin.cool/Aishwary2004Gupta?ext=heatmap)    <img src="https://leetcode-badge-showcase.vercel.app/api?username=Aishwary2004Gupta&animated=true" alt="LeetCode Badges"/>
 
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=Aishwary2004Gupta&animated=true" alt="LeetCode Badges"/>
+
 
 
 ## My Blog
