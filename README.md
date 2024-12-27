@@ -20,8 +20,6 @@ Here are some ideas to get you started:
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Aishwary2004Gupta?ext=heatmap)    <img src="https://leetcode-badge-showcase.vercel.app/api?username=Aishwary2004Gupta&theme=dark&filter=annual&border=no-border&animated=true"/>
 
 
-
-
 ## My Blog
 Check out my blog for insightful tech content: [HERE](https://aishwarygupta.hashnode.dev/)
 
