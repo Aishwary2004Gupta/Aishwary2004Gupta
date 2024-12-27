@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 [![An image of @aishwary2004gupta's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aishwary2004gupta)](https://holopin.io/@aishwary2004gupta)
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/Aishwary2004Gupta?ext=heatmap)                   <img align="right" width="340" src="https://leetcode-badge-showcase.vercel.app/api?username=Aishwary2004Gupta&theme=dark&border=border&animated=true"/>
+![Leetcode Stats](https://leetcard.jacoblin.cool/Aishwary2004Gupta?ext=heatmap)                   <img align="right" width="330" src="https://leetcode-badge-showcase.vercel.app/api?username=Aishwary2004Gupta&theme=dark&border=border&animated=true"/>
 
 Check out my Blog for insightful tech content: [HERE](https://aishwarygupta.hashnode.dev/)
 
