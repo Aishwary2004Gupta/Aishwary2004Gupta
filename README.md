@@ -21,3 +21,5 @@ Here are some ideas to get you started:
 
 Check out my Blog for insightful tech content: [HERE](https://aishwarygupta.hashnode.dev/)
 
+
+<img src="https://github.com/user-attachments/assets/1862cab5-f2d1-4e2d-874a-e80fb873bd5c">
