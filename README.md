@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 <img align="right" width="320" src="https://leetcode-badge-showcase.vercel.app/api?username=Aishwary2004Gupta&theme=dark&border=border&animated=true"/>
 
-<img align="left" width="400" src="https://github.com/user-attachments/assets/1862cab5-f2d1-4e2d-874a-e80fb873bd5c">
+<img align="left" width="500" src="https://github.com/user-attachments/assets/1862cab5-f2d1-4e2d-874a-e80fb873bd5c">
