@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Aishwary2004Gupta?ext=heatmap)                   <img align="right" width="320" src="https://leetcode-badge-showcase.vercel.app/api?username=Aishwary2004Gupta&theme=dark&border=border&animated=true"/>
 
-<img align="left" width="460" src="https://github.com/user-attachments/assets/1862cab5-f2d1-4e2d-874a-e80fb873bd5c">
+<img align="left" width="480" src="https://github.com/user-attachments/assets/1862cab5-f2d1-4e2d-874a-e80fb873bd5c">
