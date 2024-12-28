@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 ![leetcard](https://leetcard.jacoblin.cool/Aishwary2004Gupta?ext=heatmap) 
 
-[<img target="_blank" align="left" src="https://github.com/user-attachments/assets/1862cab5-f2d1-4e2d-874a-e80fb873bd5c">](https://aishwarygupta.hashnode.dev/?source=top_nav_blog_home)
+[<img align="left" src="https://github.com/user-attachments/assets/1862cab5-f2d1-4e2d-874a-e80fb873bd5c">](https://aishwarygupta.hashnode.dev/?source=top_nav_blog_home){:target="_blank"}
