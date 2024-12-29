@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 
 <img width="100" src="https://assets.leetcode.com/static_assets/marketing/2024.gif" alt="LeetCode 2024 Marketing GIF">  <img width="100" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="LeetCode 2024 Marketing GIF">
 <img width="100" src="https://assets.leetcode.com/static_assets/marketing/365_new.gif" alt="LeetCode 2024 Marketing GIF">
+<img width="100" src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" alt="LeetCode 2024 Marketing GIF">
+
 
 
 
