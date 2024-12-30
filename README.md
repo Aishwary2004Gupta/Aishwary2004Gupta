@@ -22,6 +22,10 @@ Here are some ideas to get you started:
 
 [![leetcard](https://leetcard.jacoblin.cool/Aishwary2004Gupta?ext=heatmap)](https://leetcode.com/u/Aishwary2004Gupta/) 
 
+---
+### Want To Contact Me? 📱
+
+[![Linkedin Badge](https://img.shields.io/badge/-Aishwary_Gupta-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aishwary-gupta-/)](https://www.linkedin.com/in/aishwary-gupta-/)
 
 
 [<img align="left" src="https://github.com/user-attachments/assets/232abce3-1bfd-4708-9e29-5b1ec5caf24c">](https://aishwarygupta.hashnode.dev/?source=top_nav_blog_home) 
