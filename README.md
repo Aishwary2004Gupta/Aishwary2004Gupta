@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 ### Want To Contact Me? 📱
 
 [![Linkedin Badge](https://img.shields.io/badge/in-Aishwary_Gupta-blue?style=plastic&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/aishwary-gupta-/)](https://www.linkedin.com/in/aishwary-gupta-/)
-[![Gmail Badge](https://img.shields.io/badge/aish042004@gmail.com-white?style=plastic&logo=Gmail)](mailto:aish042004@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/aish042004@gmail.com-white?style=plastic&logo=Gmail&logoColor=&link=mailto:aish042004@gmail.com)](mailto:aish042004@gmail.com)
 
 
 [<img align="left" src="https://github.com/user-attachments/assets/232abce3-1bfd-4708-9e29-5b1ec5caf24c">](https://aishwarygupta.hashnode.dev/?source=top_nav_blog_home) 
