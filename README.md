@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 [<img align="right" width="298" src="https://leetcode-badge-showcase.vercel.app/api?username=Aishwary2004Gupta&theme=dark&filter=daily&border=border"/>](https://leetcode.com/u/Aishwary2004Gupta/) 
 
-$~$
+
 
 [![leetcard](https://leetcard.jacoblin.cool/Aishwary2004Gupta?ext=heatmap)](https://leetcode.com/u/Aishwary2004Gupta/) 
 
