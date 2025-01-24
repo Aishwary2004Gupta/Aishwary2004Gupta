@@ -28,10 +28,10 @@ Here are some ideas to get you started:
 ### Want To Contact Me? 📱
 
 <p align="left">
-<a href="https://linkedin.com/in/aishwary-gupta-" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aishwary-gupta-" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aishwary-gupta-"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aishwary-gupta-" height="30" width="40" /></a>
 </p>
 
-[![Linkedin Badge](https://img.shields.io/badge/in-Aishwary_Gupta-blue?style=plastic&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/aishwary-gupta-/)](https://www.linkedin.com/in/aishwary-gupta-/)
+
 [![Gmail Badge](https://img.shields.io/badge/aish042004@gmail.com-white?style=plastic&logo=Gmail&logoColor=&link=mailto:aish042004@gmail.com)](mailto:aish042004@gmail.com)
 
 
