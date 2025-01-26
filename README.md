@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 
 <p align="left">
-<a href="https://codepen.io/https://codepen.io/aishwary2004gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/aishwary2004gupta" height="30" width="40" /></a>
+<a href="https://codepen.io/aishwary2004gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/aishwary2004gupta" height="30" width="40" /></a>
 <a href="https://twitter.com/aish2004gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aish2004gupta" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aishwary-gupta-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aishwary-gupta-" height="30" width="40" /></a>
 <a href="https://hashnode.com/@aishwarygupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@aishwarygupta" height="30" width="40" /></a>
