@@ -52,6 +52,7 @@
 
 <p align="center">
   <img src="https://assets.leetcode.com/static_assets/marketing/2024.gif" alt="LeetCode GIF" width="100" />
+  <img src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="LeetCode GIF" width="100" />
   <img src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="LeetCode GIF" width="100" />
   <img src="https://assets.leetcode.com/static_assets/marketing/365_new.gif" alt="LeetCode GIF" width="100" />
   <img src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" alt="LeetCode GIF" width="100" />
