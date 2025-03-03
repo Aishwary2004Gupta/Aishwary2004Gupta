@@ -42,7 +42,7 @@
 
 ---
 
-### Blog and Fun Stuff 📝
+### Blog 📝
 
 <p align="center">
   <a href="https://aishwarygupta.hashnode.dev/?source=top_nav_blog_home">
