@@ -1,4 +1,4 @@
-<h2 align="center"> Hey there 👋 I am Aishwary Gupta (he/him) 🙋 </h2>
+<h2 align="center"> Hey there 👋 I am Aishwary Gupta (he/him) 🙋 </h2> 
 
 <p align="center">
   <a href="https://holopin.io/@aishwary2004gupta">
