@@ -5,7 +5,6 @@
     <img src="https://holopin.me/aishwary2004gupta" alt="An image of @aishwary2004gupta's Holopin badges" />
   </a>
 </p>
-
 <p align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
   <a href="https://leetcode.com/u/Aishwary2004Gupta/">
     <img src="https://leetcode-badge-showcase.vercel.app/api?username=Aishwary2004Gupta&theme=dark&filter=daily&border=border" alt="LeetCode Badge" width="250" />
