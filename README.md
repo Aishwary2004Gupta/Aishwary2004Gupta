@@ -18,7 +18,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://leetcode.com/u/Aishwary2004Gupta/">
-    <img src="https://leetcard.jacoblin.cool/Aishwary2004Gupta?ext=heatmap" alt="LeetCard" width="600" />
+    <img src="https://leetcard.jacoblin.cool/Aishwary2004Gupta?ext=heatmap" alt="LeetCard" width="550" />
   </a>
 </p>
 
@@ -76,5 +76,6 @@
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" height="50" width="210" />
   </a>
 </p>
+
 
 
