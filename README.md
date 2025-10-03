@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://leetcode.com/u/Aishwary2004Gupta/">
-    <img src="https://leetcode-badge-showcase.vercel.app/api?username=Aishwary2004Gupta&theme=dark&filter=daily&border=border" alt="LeetCode Badge" width="230" />
+    <img src="https://leetcode-badge-showcase.vercel.app/api?username=Aishwary2004Gupta&theme=dark&filter=daily&border=border" alt="LeetCode Badge" width="220" />
   </a>
   &nbsp;&nbsp;
   <a href="https://leetcode.com/u/Aishwary2004Gupta/">
@@ -76,6 +76,7 @@
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" height="50" width="210" />
   </a>
 </p>
+
 
 
 
