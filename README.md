@@ -29,18 +29,18 @@
 * 📧 Email: **[aish042004@gmail.com](mailto:aish042004@gmail.com)**
 
 <p align="center">
-  <a href="https://codepen.io/aishwary2004gupta" target="_blank">
+  <a href="https://codepen.io/aishwary2004gupta" target="_blank" >
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="CodePen" height="35" width="35" />
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/aish2004gupta" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="35" width="35" />
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/aishwary-gupta-" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="35" />
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="https://hashnode.com/@aishwarygupta" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="Hashnode" height="35" width="35" />
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.leetcode.com/aishwary2004gupta" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="35" width="35" />
   </a>
@@ -76,6 +76,7 @@
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" height="50" width="210" />
   </a>
 </p>
+
 
 
 
