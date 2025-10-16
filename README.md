@@ -13,9 +13,9 @@
 ## 💡 LeetCode Stats
 
 <p align="center">
-  <a href="https://leetcode.com/u/Aishwary2004Gupta/">
+  <!-- <a href="https://leetcode.com/u/Aishwary2004Gupta/">
     <img src="https://leetcode-badge-showcase.vercel.app/api?username=Aishwary2004Gupta&theme=dark&filter=daily&border=border" alt="LeetCode Badge" width="217" />
-  </a>
+  </a> -->
   &nbsp;&nbsp;
   <a href="https://leetcode.com/u/Aishwary2004Gupta/">
     <img src="https://leetcard.jacoblin.cool/Aishwary2004Gupta?ext=heatmap" alt="LeetCard" width="550" />
@@ -76,6 +76,7 @@
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" height="50" width="210" />
   </a>
 </p>
+
 
 
 
