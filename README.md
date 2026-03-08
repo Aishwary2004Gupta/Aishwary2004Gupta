@@ -2,7 +2,7 @@
 
 --- 
 
-<p align="center">
+<p align="center"> 
   <a href="https://holopin.io/@aishwary2004gupta">
     <img src="https://holopin.me/aishwary2004gupta" alt="Holopin Badges" />
   </a>
@@ -76,6 +76,7 @@
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" height="50" width="210" />
   </a>
 </p>
+
 
 
 
