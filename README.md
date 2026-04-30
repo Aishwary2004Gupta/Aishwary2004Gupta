@@ -12,7 +12,7 @@
 
 ## 💡 LeetCode Stats
 
-<p align="center">
+<p align="center"> 
   <!-- <a href="https://leetcode.com/u/Aishwary2004Gupta/">
     <img src="https://leetcode-badge-showcase.vercel.app/api?username=Aishwary2004Gupta&theme=dark&filter=daily&border=border" alt="LeetCode Badge" width="217" />
   </a> -->
