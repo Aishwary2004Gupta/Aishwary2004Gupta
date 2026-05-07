@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey there, I’m Aishwary Gupta (he/him) 🙋</h1>  
+<h1 align="center">👋 Hey there, I’m Aishwary Gupta (he/him) 🙋</h1>    
 
 --- 
 
