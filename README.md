@@ -76,18 +76,3 @@
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" height="50" width="210" />
   </a>
 </p>
-
-
-
-
-https://docs.google.com/document/d/1h5dQXmGiixy_JgZ_TL62MjAAFThKFSgia7plzcCtg9s/edit?usp=sharing
-
-
-
-
-
-
-
-
-
-
